@@ -1,2 +1,3 @@
 # hello-world
-exploring Github
+
+Hello, My name is Karina. I'm from the Philippines!
